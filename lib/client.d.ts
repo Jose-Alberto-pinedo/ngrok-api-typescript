@@ -176,6 +176,6 @@ export declare class Ngrok {
      * @constructor
      * @param {Object} config - config.apiToken and config.baseUrl
      */
-    constructor({ baseUrl, apiToken }: NgrokConfig);
+    constructor({ baseUrl, apiToken, }: NgrokConfig);
 }
 //# sourceMappingURL=client.d.ts.map
